@@ -1,0 +1,104 @@
+ #header{
+  height: 50vh;
+  background-image: url("banner.jpg");
+  background-size: cover;
+  border: 1px solid black;
+
+}
+
+h1{
+font-size: 80px;
+color: white; 
+display: flex;
+justify-content: center;
+text-align: center;
+}
+
+#wrapper{
+    display: flex;
+}
+
+  .nav{
+    width: 100vh;
+    height: 25px;
+    border: 1px solid black;
+    padding: 10px;
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    } 
+
+#section1{
+    height: 50vh;
+    display: flex;
+    
+}
+
+.sec1{
+    width: 100vh;
+    height: 50vh;
+    padding: 40px;
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    }
+
+#section2{
+        /*height: 100vh; */
+        display: flex;
+    } 
+    
+.sec2{
+        width: 100vh;
+        height: 50vh;
+        padding: 100px;
+        background: black;
+        color: white;
+        display: flex;
+        justify-content: center;
+        text-align: justify;
+    } 
+
+#subsection{
+    display: flex;
+} 
+
+.subsec{
+    width: 100%;
+    height: 10px;
+    padding: 30px;
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+
+} 
+
+
+.testheading{
+    width: 100%;
+    height: 10px;
+    padding: 30px 0;
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+} 
+
+
+#testimonials{
+    width: 100%;
+    padding: 40px 0;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    display: flex;
+} 
+
+
+
